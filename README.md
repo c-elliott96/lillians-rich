@@ -29,3 +29,9 @@ For various python project tooling, see [How I Build](https://montasaurus.com/po
 - Activated venv: `uv venv lillians-rich`
 - Installed `rich` via `pip`: `uv pip install rich`
 - Initialized `uv` project: `uv init --app`
+
+### TODO File structure
+
+### TODO Python quick-learn
+
+- Finished section 1 of [Learn Python in Y Minutes](https://learnxinyminutes.com/python/)
