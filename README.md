@@ -35,3 +35,7 @@ For various python project tooling, see [How I Build](https://montasaurus.com/po
 ### TODO Python quick-learn
 
 - Finished section 1 of [Learn Python in Y Minutes](https://learnxinyminutes.com/python/)
+
+### [2025-02-18] Add Sqlite3 `src/db/setup_db.py`
+
+- DONE: Make sqlite write db to src/db directory (currently writes to root).
