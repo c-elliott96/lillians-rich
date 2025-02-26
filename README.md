@@ -39,3 +39,10 @@ For various python project tooling, see [How I Build](https://montasaurus.com/po
 ### [2025-02-18] Add Sqlite3 `src/db/setup_db.py`
 
 - DONE: Make sqlite write db to src/db directory (currently writes to root).
+
+- DONE: Move DB folder to root
+
+- TODO: Don't VC sqlite3 db
+
+- TODO: Create "DataImporter" class that is composed with "TypedDataImporter"
+  e.g. CSVImporter to allow external data importation.
